@@ -1,4 +1,5 @@
-@import url('/assets/css/reset.css');
+/* @import url('/assets/css/reset.css'); */
+@import url('https://weslleyevangelista.github.io/desafio-trilha-css/assets/css/reset.css');
 
 body {
     background-color: black;
